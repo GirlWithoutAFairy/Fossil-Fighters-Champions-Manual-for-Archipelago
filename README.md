@@ -2,6 +2,7 @@
 
 This guide assumes you have experience with both Archipelago and Manual for Archipelago. If you have no experience with either of these, follow the Archipelago setup guide found here:
 https://archipelago.gg/tutorial/Archipelago/setup/en
+
 Or here for Mac useres:
 https://archipelago.gg/tutorial/Archipelago/mac/en
 
@@ -10,22 +11,39 @@ https://discord.gg/T5bcsVHByx
 
 # General Info
 This is a randomizer for Fossil Fighters Champions.
+
      Randomized items:
+     
      - Dino Medals
+     
      - Tool Upgrades
+     
      - Masks
+     
      - Icon Sets
+     
      - Sonar Covers
+     
      - Access to dig sites and islands (You have Ribular Town and Treasure Lake from the start)
+     
      - Other miscellaneous items needed for side quests (Hot Spring Water, Cretaceous Ice, Progressive Aquarium Dino Medals, etc)
+     
      Checks
+     
      - Vivosaur Revivals (Just clean the head)
+     
      - Dig site entrances
+     
      - DLC Rocks
+     
      - Side Quest Completions
+     
      - Super Revivals
+     
      - Each rematch needed for A Challenger Approaches
+     
      - Each reward from Curious Cleaning, Concentrate!, and Waste Not, Want Not
+     
      - More
 
 A save file is provided for use with this apworld with many things unlocked from the start. You can find it along with the apworld in the Releases tab. Refer to the Universal Tracker to see what items are actually available for use.
