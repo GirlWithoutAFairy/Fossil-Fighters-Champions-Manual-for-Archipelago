@@ -52,6 +52,53 @@ The victory condition for this randomizer is to complete 25 side quests. There i
 It is strongly advised that you use the Universal Tracker for this. It can be found here:
 https://github.com/FarisTheAncient/Archipelago/releases
 
+It is also advised you used the following AR codes:
+
+See Fossil Names:
+
+5201BB2C 2D0025BB
+1201BB2E 00002DC3
+1201BB30 0000D108
+D2000000 00000000
+
+Add 4 Miraculous Rocks to Fossil Lawn (Make sure you get the 7 DLC Items out first)
+
+Press Select while outside the Fossil Lawn
+
+94000130 FFFB0000
+D3000000 02277000
+C0000000 00000FFF
+90000000 FC860379
+00000004 00000001
+00000008 0004AC7B
+00000010 00022D7B
+00000014 0003D725
+00000020 7C400000
+00000024 00006000
+00000030 00000001
+00000034 0004AC7B
+0000003C 00022D7B
+00000040 0004D725
+0000004C 7C400000
+00000050 00006000
+0000005C 00000001
+00000060 0004AC7B
+00000068 00022D7B
+0000006C 0005D725
+00000078 7C400000
+0000007C 00006000
+00000088 00000001
+0000008C 0004AC7B
+00000094 00022D7B
+00000098 0006D725
+000000A4 7C400000
+000000A8 00006000
+DC000000 00000054
+D0000000 00000000
+DC000000 00000001
+D1000000 00000000
+D0000000 00000000
+
 # Known Issues
 Play time is not set to 0h 0m in the provided save file. This should be fixed in a future update.
 Most vivosaurs do not show up properly in the Fossilary. I don't know how to fix this.
