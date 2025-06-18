@@ -1,0 +1,1 @@
+# Fossil-Fighters-Champions-Manual-for-Archipelago
