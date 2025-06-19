@@ -64,6 +64,8 @@ See Fossil Names:
 
 D2000000 00000000
 
+
+
 Add 4 Miraculous Rocks to Fossil Lawn (Make sure you get the 7 DLC Items out first)
 
 Press Select while outside the Fossil Lawn
