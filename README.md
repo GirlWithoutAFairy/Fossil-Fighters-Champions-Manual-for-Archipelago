@@ -3,7 +3,7 @@
 This guide assumes you have experience with both Archipelago and Manual for Archipelago. If you have no experience with either of these, follow the Archipelago setup guide found here:
 https://archipelago.gg/tutorial/Archipelago/setup/en
 
-Or here for Mac useres:
+Or here for Mac users:
 https://archipelago.gg/tutorial/Archipelago/mac/en
 
 After completing the Archipelago setup guide, follow the Manual for Archipelago setup guide found in the Manual for Archipelago Discord Server:
@@ -51,6 +51,8 @@ A save file is provided for use with this apworld with many things unlocked from
 The victory condition for this randomizer is to complete 25 side quests. There is a counter inside the Manual client that show how many side quests have been completed. 
 It is strongly advised that you use the Universal Tracker for this. It can be found here:
 https://github.com/FarisTheAncient/Archipelago/releases
+
+At the start of this randomizer you have logical access to Ribular Town, the Fossil Lawn, and Treasure Lake. Other regions need to be unlocked. You are also given access to Tricera at the beginning. Other vivosaurs need to be unlocked.
 
 It is also advised you used the following AR codes:
 
