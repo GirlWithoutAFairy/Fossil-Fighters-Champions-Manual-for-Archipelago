@@ -137,8 +137,6 @@ D1000000 00000000
 D0000000 00000000
 
 # Known Issues
-Play time is not set to 0h 0m in the provided save file. This should be fixed in a future update.
-
 Most vivosaurs do not show up properly in the Fossilary. I don't know how to fix this.
 
 Vivosaurs which super evolve are duplicated in the holder. I don't know how to fix this. Donating the duplicates has some broken behavior. Please don't do that.
