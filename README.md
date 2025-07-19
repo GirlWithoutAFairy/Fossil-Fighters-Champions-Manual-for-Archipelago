@@ -50,7 +50,7 @@ This is a randomizer for Fossil Fighters Champions.
      
      - More
 
-A save file is provided for use with this apworld with many things unlocked from the start. You can find it along with the apworld in the Releases tab. Refer to the Universal Tracker to see what items are actually available for use.
+A save file is provided for use with this apworld with many things unlocked from the start. You can find it along with the apworld in the Releases tab. Refer to the Manual Client to see what items are actually available for use.
 
 The victory condition for this randomizer is to complete 25 side quests. There is a counter inside the Manual client that show how many side quests have been completed. 
 It is strongly advised that you use the Universal Tracker for this. It can be found here:
