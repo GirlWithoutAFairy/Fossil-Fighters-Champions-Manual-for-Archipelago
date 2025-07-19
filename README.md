@@ -9,6 +9,8 @@ https://archipelago.gg/tutorial/Archipelago/mac/en
 After completing the Archipelago setup guide, follow the Manual for Archipelago setup guide found in the Manual for Archipelago Discord Server:
 https://discord.gg/T5bcsVHByx
 
+You will also need the Universal Tracker for Archipelago: https://discord.com/channels/731205301247803413/1367270230635839539
+
 # General Info
 This is a randomizer for Fossil Fighters Champions.
 
@@ -27,6 +29,8 @@ This is a randomizer for Fossil Fighters Champions.
      - Access to dig sites and islands (You have Ribular Town and Treasure Lake from the start)
      
      - Other miscellaneous items needed for side quests (Hot Spring Water, Cretaceous Ice, Progressive Aquarium Dino Medals, etc)
+
+     - Extremely Scared Vivosaur Trap. This is a trap item that when received, means that the next vivosaur to take damage may no longer attack for the duration of the current battle. Should it become your last remaining vivosaur, press start to forfeit the battle.
      
      Checks
      
